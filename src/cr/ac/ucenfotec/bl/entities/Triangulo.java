@@ -1,4 +1,4 @@
-package logica;
+package cr.ac.ucenfotec.bl.entities;
 
 public abstract class Triangulo extends Figura {
 

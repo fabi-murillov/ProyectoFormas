@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Fabiii\\University\\BISOFT 2026\\Cuatri 3\\Programación Orientada a Objetos\\mysql-connector-j-26.10.0\\mysql-connector-j-26.10.0.jar"
+    ]
+}

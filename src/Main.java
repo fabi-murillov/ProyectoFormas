@@ -1,6 +1,6 @@
-package interfaz;
 
-import logica.Coleccion;
+
+import cr.ac.ucenfotec.bl.entities.Coleccion;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package logica;
+package cr.ac.ucenfotec.bl.entities;
 
 public class Cuadrado extends Rectangulo {
 

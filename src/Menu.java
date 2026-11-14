@@ -1,8 +1,20 @@
-package interfaz;
 
+
+import cr.ac.ucenfotec.bl.entities.Cilindro;
+import cr.ac.ucenfotec.bl.entities.Circulo;
+import cr.ac.ucenfotec.bl.entities.Coleccion;
+import cr.ac.ucenfotec.bl.entities.Cuadrado;
+import cr.ac.ucenfotec.bl.entities.Cubo;
+import cr.ac.ucenfotec.bl.entities.Cuerpo;
+import cr.ac.ucenfotec.bl.entities.Equilatero;
+import cr.ac.ucenfotec.bl.entities.Esfera;
+import cr.ac.ucenfotec.bl.entities.Figura;
+import cr.ac.ucenfotec.bl.entities.Rectangulo;
+import cr.ac.ucenfotec.bl.entities.Rombo;
+import cr.ac.ucenfotec.bl.entities.Tetraedro;
+import cr.ac.ucenfotec.bl.entities.Triangulo;
 import java.util.Locale;
 import java.util.Scanner;
-import logica.*;
 
 public class Menu {
 
